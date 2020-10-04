@@ -1,0 +1,14 @@
+{
+    "require": {
+        "php":">=7.4.11",
+        "envms/fluent-test": "^1.0",
+        "phpunit/phpunit": "^8.0",
+        "league/climate": "^3.5",
+        "phpoffice/phpword": "^0.17.0",
+        "doge-dev/laravel-sms-verification": "^0.0.2",
+        "aws/aws-sdk-php": "^3.158",
+        "deivisondc/csv-xls-report-generator": "^1.1",
+        "laravel/framework": "^8.8"
+    },
+    "autoload": {}
+}
