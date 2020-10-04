@@ -8,4 +8,22 @@
 
 2) Для работы с кешем в памяти для временного хранения сложных запросов к БД - Класс PHP Abstract Cache, система кэширования для уменьшения кол-ва запросов - https://packagist.org/packages/phpfastcache/phpfastcache
 
-3) Для Формирования XLS-отчетов на основе данных - 
+3) Для Формирования XLS-отчетов на основе данных - https://packagist.org/packages/deivisondc/csv-xls-report-generator
+
+4) Для Формирования PDF-документы на основе данных - https://packagist.org/packages/phpoffice/phpword
+
+5) Для Отправки SMS-сообщения для верификации пользователей - https://packagist.org/packages/doge-dev/laravel-sms-verification
+
+6) Для Отправки E-mail-уведомления и рассылки для пользователей - https://packagist.org/packages/laravel/framework
+
+7) Для Использования облачного хранилище AWS S3 - https://packagist.org/packages/aws/aws-sdk-php
+
+8) Для Использования интеграция со службой доставки для расчета стоимости - https://packagist.org/packages/shiptor/shipping-calculator
+
+9) Для Использования интеграция с социальными сетями для авторизации пользователей - https://packagist.org/packages/mad-web/laravel-social-auth
+
+10) Данные о товарах регулярно отправляются в Яндекс.Маркет - https://packagist.org/packages/bukashk0zzz/yml-generator
+
+11) Для Принименения онлайн-оплата от покупателей - https://packagist.org/packages/swedbank-spp/swedbank-payment-portal
+
+12) Для Принименения средства тестирования (например, PHPUnit) - https://packagist.org/packages/phpunit/phpunit
